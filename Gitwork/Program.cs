@@ -6,21 +6,21 @@ namespace Gitwork
     {
         static void Main(string[] args)
         {
-            int a = 0, b = 0;
+            double a = 0, b = 0;
 
             Console.WriteLine("Enter a value for a:");
-            a = Int32.Parse(Console.ReadLine());
+            a = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter a value for b:");
-            b = Int32.Parse(Console.ReadLine());
+            b = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a, b)}");
+            Console.WriteLine($"Substracting {a} - {b} equals {SubstractNumbers(a, b)}");
 
         }
 
-        public static int AddNumbers (int a, int b)
+        public static double SubstractNumbers (double a, double b)
         {
-            return a + b;
+            return a - b;
         }
     }
 }
