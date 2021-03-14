@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\bin\Debug\net5.0\Gitwork.exe
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\bin\Debug\net5.0\Gitwork.deps.json
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\bin\Debug\net5.0\Gitwork.runtimeconfig.json
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\bin\Debug\net5.0\Gitwork.runtimeconfig.dev.json
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\bin\Debug\net5.0\Gitwork.dll
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\bin\Debug\net5.0\ref\Gitwork.dll
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\bin\Debug\net5.0\Gitwork.pdb
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.AssemblyInfo.cs
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.dll
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\ref\Gitwork.dll
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.pdb
+C:\Users\chris\Desktop\U-programa-varios\Nueva carpeta\Gitwork\Gitwork\obj\Debug\net5.0\Gitwork.genruntimeconfig.cache
