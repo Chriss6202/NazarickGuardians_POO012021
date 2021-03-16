@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Desktop\\U-programa-varios\\Nueva carpeta\\Gitwork\\Gitwork\\Gitwork.csproj": {}
+    "D:\\Archivos de clases\\Workspaces\\OOP012021\\NazarickGuardians_POO012021\\GitWork\\Gitwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Desktop\\U-programa-varios\\Nueva carpeta\\Gitwork\\Gitwork\\Gitwork.csproj": {
+    "D:\\Archivos de clases\\Workspaces\\OOP012021\\NazarickGuardians_POO012021\\GitWork\\Gitwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Desktop\\U-programa-varios\\Nueva carpeta\\Gitwork\\Gitwork\\Gitwork.csproj",
+        "projectUniqueName": "D:\\Archivos de clases\\Workspaces\\OOP012021\\NazarickGuardians_POO012021\\GitWork\\Gitwork.csproj",
         "projectName": "Gitwork",
-        "projectPath": "C:\\Users\\chris\\Desktop\\U-programa-varios\\Nueva carpeta\\Gitwork\\Gitwork\\Gitwork.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Desktop\\U-programa-varios\\Nueva carpeta\\Gitwork\\Gitwork\\obj\\",
+        "projectPath": "D:\\Archivos de clases\\Workspaces\\OOP012021\\NazarickGuardians_POO012021\\GitWork\\Gitwork.csproj",
+        "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+        "outputPath": "D:\\Archivos de clases\\Workspaces\\OOP012021\\NazarickGuardians_POO012021\\GitWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

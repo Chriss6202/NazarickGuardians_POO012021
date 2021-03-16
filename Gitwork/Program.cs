@@ -8,19 +8,19 @@ namespace Gitwork
         {
             double a = 0, b = 0;
 
-            Console.WriteLine("Enter a value for a:");
+            Console.Write("Enter a value for a:");
             a = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter a value for b:");
+            Console.Write("Enter a value for b:");
             b = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Substracting {a} - {b} equals {SubstractNumbers(a, b)}");
+            Console.WriteLine($"Multiplication {a} * {b} equals {MultNumbers(a, b)}");
 
         }
 
-        public static double SubstractNumbers (double a, double b)
+        public static double MultNumbers (double a, double b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
